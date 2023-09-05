@@ -7,4 +7,4 @@ src = "src"
 
 [output.html]
 mathjax-support = true
-git-repository-url = "https://zzzxj12138.github.io/04/"
+git-repository-url = "https://zzzxj12138.github.io/index/"
